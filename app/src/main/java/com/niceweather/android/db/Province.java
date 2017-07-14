@@ -30,7 +30,7 @@ public class Province extends DataSupport{
         this.provinceName = provinceName;
     }
 
-    public int getprovinceCode(){
+    public int getProvinceCode(){
         return provinceCode = provinceCode;
     }
 
